@@ -1,6 +1,7 @@
-if ( process.env.MYNAME == "steve" ) {
+if ( process.env.MYNAME == "Jeff" ) {
     console.log("Team owner "+process.env.MYNAME);
    } else {
     console.log("Team member: Gabe")
+    console.log("Team member: Evelyn")
    }
    
